@@ -140,4 +140,5 @@ SITE_ID = 1
 
 ACCOUNT_EMAIL_VERIFICATION = "none"
 
+# updated login_redirected_url location
 LOGIN_REDIRECT_URL = "/"
